@@ -1,6 +1,6 @@
 # hello, my name is [reese](https://reesporte.github.io)
 
-## some of my projects ( in no particular order ) 
+## some of the projects on here ( in no particular order ) 
 * [html-compile](https://github.com/reesporte/html-compile) : HTML component compiler CLI tool
 * [social-media](https://github.com/reesporte/social-media): social media site with a pure Go/PostgreSQL backend & vanilla HTML/JS frontend
 * [kmp](https://github.com/reesporte/kmp): knuth-morris-pratt string searcher CLI
